@@ -3,7 +3,7 @@
     padding: 0px;
 }
 nav{
-    background-color: #53cbef;
+    background-color: rgb(157, 157, 242);;
     height: 100px;
     display: flex;
     justify-content: space-between;
@@ -35,7 +35,7 @@ nav ul li a{
         right: 0px;
         flex-direction: column;
         text-align: center;
-        background-color: #53cbef;
+        background-color: rgb(157, 157, 242);;
         transition: 1s;
         overflow: hidden;
     }

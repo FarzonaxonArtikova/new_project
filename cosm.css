@@ -489,7 +489,7 @@ ul {
   width: 136px;
   border-radius: 16px;
   border: none;
-  background-color: #1d1d1d;
+  background-color: white;
   overflow: hidden;
   box-shadow:
     inset -2px -2px 5px rgba(255, 255, 255, 0.2),
@@ -514,7 +514,7 @@ ul {
 }
 
 .like-text {
-  color: #fcfcfc;
+  color: black;
   font-size: 16px;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -545,7 +545,7 @@ ul {
 
 .on:checked ~ .like-count.two {
   transform: translateX(0);
-  color: #fcfcfc;
+  color: black;
 }
 
 .on:checked ~ .like-count.one {
